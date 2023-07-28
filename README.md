@@ -1,13 +1,5 @@
 # Welcome to My GitHub Repository
-
-[![GitHub Repo Views](https://api.freemotion-llc.com/badge/counts/Peaky-XD/My-Repository?style=for-the-badge)](https://github.com/Peaky-XD/My-Repository)
-[![Download](https://img.shields.io/badge/Download-1690561820450.png-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peaky-XD/Butterfly/main/1690561820450.png)
-
 This repository contains the code and assets for my amazing project. Feel free to explore, contribute, and use it as you see fit. If you find it helpful, don't forget to leave a star ⭐️.
-
-## Repo Views
-
-[![GitHub Repo Views](https://api.freemotion-llc.com/badge/counts/Peaky-XD/My-Repository?style=for-the-badge)](https://github.com/Peaky-XD/My-Repository)
 
 ## Download
 
@@ -17,7 +9,7 @@ Click the button below to download the latest version of the butterfly image:
 
 ## Usage
 
-To use the image in your project, you can simply download it by clicking the "Download" button above. The image is provided in PNG format and is ready to be used in any compatible application.
+To use the image in your project, you can simply download it by clicking the "Download" button above. The image is provided in PNG format and is ready to Decode.
 
 ## Contributing
 
