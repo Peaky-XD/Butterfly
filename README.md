@@ -3,9 +3,9 @@ This repository contains the code and assets for my amazing project. Feel free t
 
 ## Download
 
-Click the button below to download the latest version of the butterfly image:
+Click the button below to download the latest version of the butterfly text file :
 
-[![Download](https://img.shields.io/badge/Download-1690561820450.png-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peaky-XD/Butterfly/main/1690561820450.png)
+[![Download](https://img.shields.io/badge/Download-fly.txt-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peaky-XD/Butterfly/main/fly.txt)
 
 ## Usage
 
