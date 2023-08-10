@@ -7,10 +7,6 @@ Click the button below to download the latest version of the butterfly text file
 
 [![Download](https://img.shields.io/badge/Download-fly.txt-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peaky-XD/Butterfly/main/fly.txt)
 
-## Usage
-
-To use the image in your project, you can simply download it by clicking the "Download" button above. The image is provided in PNG format and is ready to Decode.
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
